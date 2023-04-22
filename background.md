@@ -6,7 +6,7 @@ All teams' tanks will be placed in a massive 1v1 tournament bracket, where seedi
 
 ## Tank
 
-![Tank](./img/robot.png)
+![Tank]([./img/robot.png](https://github.com/pathak-vikas/HackNight-23/blob/main/docs/img/robot.png))
 
 Tanks consist of a chassis and a turret.
 
