@@ -6,4 +6,4 @@
 Illinois Tech ACM
 College & university
 Association for Computing Machinery is IIT's premier computer science organization, committed to uniting students within the field of computing.
-linktr.ee/acm.iit
+www.linktr.ee/acm.iit
